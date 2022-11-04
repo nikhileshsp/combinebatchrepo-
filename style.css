@@ -1,5 +1,5 @@
 *{
-    background-color: magenta;
+    background-color: rgb(255, 255, 255);
     
 }
 .abhi{
@@ -12,4 +12,11 @@
 .bhavi2{
     background-color:yellow ;
     color: blue;
+}
+h2{
+    font-size: 100px;
+    background:linear-gradient(rgb(0, 137, 200),rgb(238, 0, 255));
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-stroke: 2px;
 }
